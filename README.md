@@ -15,7 +15,7 @@ Seperti Gambar dibawah ini
 
 setelah itu KLIK Restore Configuration
 
-detail cek video ini dibawah ini
+-detail cek video terlampir di repo ini-
 
 
 Biarkan beberapa saat, modem akan reboot sendiri.
