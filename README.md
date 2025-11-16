@@ -15,7 +15,8 @@ Seperti Gambar dibawah ini
 
 setelah itu KLIK Restore Configuration
 
--detail cek video terlampir di repo ini-
+-detail cek video di link dibawah ini-
+https://www.facebook.com/uky.elkie/posts/pfbid033qG8GPUYcm2FDsmszHYAu9xb5i6NqiQqdHPWHKJBWeyG76ffv236U6HUNGiEy4C8l
 
 
 Biarkan beberapa saat, modem akan reboot sendiri.
